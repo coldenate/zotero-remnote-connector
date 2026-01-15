@@ -30,7 +30,7 @@
 		"esbuild-loader": "^4.3.0",
 		"html-webpack-plugin": "^5.5.0",
 		"mini-css-extract-plugin": "^2.6.1",
-		"patch-package": "^8.0.0",
+		"patch-package": "^8.0.1",
 		"postcss": "^8.4.31",
 		"postcss-import": "^14.1.0",
 		"postcss-loader": "^7.0.0",
